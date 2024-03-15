@@ -1,5 +1,5 @@
 # maxx-rj45-controller
-i2c expansion board to control the MaxxFann via rj45 port. 
+i2c expansion board to control the MaxxFan via rj45 port. 
 Its based on the work from Zef Houssney.
 https://zef.studio/projects/maxxfan/
 
